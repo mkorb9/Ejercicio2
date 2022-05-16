@@ -1,3 +1,3 @@
 # Ejercicio2
 
-Archivo .JAVA
+Archivo .java
